@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author ghm8mog
  */
-public class SherLock {
+public class SherLockBeast {
     
     public static void main(String args[]){
         
